@@ -1,0 +1,17 @@
+GIỚI THIỆU CÁ NHÂN
+
+Tôi là Nguyễn Hoàng Phúc, sinh viên năm thứ 3 ngành Công nghệ thông tin.
+Hiện tại tôi đang học tập tại trường Đại học FPT và có niềm đam mê lớn với lập trình.
+Tôi luôn tìm tòi và học hỏi những công nghệ mới để nâng cao kỹ năng của bản thân.
+Mục tiêu của tôi là trở thành một lập trình viên full-stack giỏi trong tương lai.
+Tôi tin rằng sự kiên trì và học hỏi không ngừng sẽ giúp tôi đạt được ước mơ của mình.
+
+SỞ THÍCH
+1. Lập trình và phát triển ứng dụng web
+2. Chơi game và xem phim công nghệ
+3. Đọc sách về công nghệ và khởi nghiệp
+
+KỸ NĂNG
+1. Lập trình Java, Python, JavaScript
+2. Phát triển web với HTML, CSS, React
+3. Quản lý cơ sở dữ liệu MySQL, MongoDB
