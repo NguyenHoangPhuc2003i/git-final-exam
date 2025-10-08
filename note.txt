@@ -3,3 +3,5 @@
 - Git là một công cụ quản lý phiên bản mạnh mẽ giúp theo dõi thay đổi code hiệu quả
 - Hệ thống branching của Git giúp phát triển tính năng song song mà không ảnh hưởng đến nhau
 - Git giúp làm việc nhóm trở nên dễ dàng hơn với khả năng merge và resolve conflict
+- Git cho phép khôi phục lại các phiên bản cũ khi cần thiết, tránh mất mát dữ liệu
+- Học Git giúp tôi hiểu rõ hơn về quy trình phát triển phần mềm chuyên nghiệp
