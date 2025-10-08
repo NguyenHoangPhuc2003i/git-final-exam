@@ -1,3 +1,5 @@
 Đây là file được tạo trực tiếp trên GitHub
-File này sẽ được đồng bộ về local bằng git pull  
+File này sẽ được đồng bộ về local bằng git pull
 GitHub web editor rất tiện lợi cho chỉnh sửa nhanh
+Bây giờ tôi đang chỉnh sửa file này ở local
+Thêm dòng này để test workflow GitHub và local
