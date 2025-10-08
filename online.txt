@@ -1,0 +1,3 @@
+Đây là file được tạo trực tiếp trên GitHub
+File này sẽ được đồng bộ về local bằng git pull  
+GitHub web editor rất tiện lợi cho chỉnh sửa nhanh
