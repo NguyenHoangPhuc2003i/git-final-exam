@@ -1,0 +1,14 @@
+# Tính năng mới: Hệ thống đăng nhập thông minh
+
+## Mô tả tính năng
+Tính năng này cho phép người dùng đăng nhập bằng nhiều phương thức khác nhau: email, số điện thoại, hoặc tài khoản mạng xã hội (Google, Facebook).
+
+## Chức năng chính
+- Xác thực đa yếu tố (2FA) với SMS hoặc email
+- Ghi nhớ thiết bị đáng tin cậy trong 30 ngày
+- Thông báo đăng nhập bất thường từ vị trí lạ
+- Đăng xuất tự động khi không hoạt động quá 30 phút
+- Dashboard quản lý phiên đăng nhập trên nhiều thiết bị
+
+## Lợi ích
+Tăng cường bảo mật tài khoản người dùng và cải thiện trải nghiệm đăng nhập.
