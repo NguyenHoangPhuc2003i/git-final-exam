@@ -39,3 +39,7 @@
 - Thực hành deployment với Docker Compose
 - Tìm hiểu về CI/CD pipeline cơ bản
 - Chuẩn bị cho presentation cuối tuần
+
+## Mục tiêu tuần tới
+- Nâng cao kỹ năng backend development
+- Học thêm về microservices architecture
