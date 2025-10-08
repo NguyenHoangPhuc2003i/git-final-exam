@@ -33,3 +33,9 @@
 **Chủ Nhật (20/10):**
 - Tổng kết tuần học (1 giờ)
 - Chuẩn bị kế hoạch tuần tiếp theo (1 giờ)
+
+## Ghi chú bổ sung
+- Tham gia các buổi code review với nhóm
+- Thực hành deployment với Docker Compose
+- Tìm hiểu về CI/CD pipeline cơ bản
+- Chuẩn bị cho presentation cuối tuần
